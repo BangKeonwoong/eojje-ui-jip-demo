@@ -1,5 +1,8 @@
 # 어제의집 프로토타입 — 미리보기 / 배포 안내
 
+- 공개 데모: https://bangkeonwoong.github.io/eojje-ui-jip-demo/
+- 관리자 데모: https://bangkeonwoong.github.io/eojje-ui-jip-demo/admin.html
+
 > 이 프로젝트는 체험용 정적 데모입니다. 실제 인증, 결제, 주문 전송, 카카오 연동, 관리자 권한 통제가 없으므로 운영 데이터를 입력하거나 실제 상점으로 사용하면 안 됩니다.
 
 `index.html` 과 `admin.html` 두 파일이 **각각 완전 독립형(self-contained)** 입니다.
